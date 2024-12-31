@@ -1,0 +1,1 @@
+This code attempts to use a non-existent function or variable.  PHP's error handling might not always be explicit about the exact cause.  For example, if a function call is misspelled or a variable is used before it's declared, a generic error might be thrown, or execution might continue with unexpected results.
